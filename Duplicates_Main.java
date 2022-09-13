@@ -11,9 +11,13 @@ import java.io.FileNotFoundException;
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- *
- * @author esteb
+/* Materia: Algoritmo y Complejidad
+ * Curso: 3265
+ * Nombre: Esteban Quintero Gonzalez
+ * Codigo Estudiantil: 200158282
+ * Workshop 3
+ * 07-09-2022
+ * Realizar un algoritmo que cuente la cantidad de duplicados que hay en un texto
  */
 public class Lab1AyC {
 
